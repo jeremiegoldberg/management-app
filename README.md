@@ -20,7 +20,12 @@ For a better experience, while using our Service, I may require you to provide u
                     personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
 
 
-The app does use third party services that may collect information used to identify you.</p <div<pLink to privacy policy of third party service providers used by the app</p <ul<li<a href="https://www.google.com/policies/privacy/" target="_blank"Google Play Services</a</li <!---- <!---- <!---- <!---- <!----</ul</div <p## Log Data I want to inform you that whenever you use my Service, in a case of an
+The app does use third party services that may collect information used to identify you.
+
+
+## Log Data 
+
+I want to inform you that whenever you use my Service, in a case of an
                     error in the app I collect data and information (through third party products) on your phone
                     called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
                     device name, operating system version, the configuration of the app when utilizing my Service,
